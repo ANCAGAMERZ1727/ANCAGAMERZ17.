@@ -1,0 +1,11 @@
+$pkg update
+$pkg upgrade
+$pkg install git
+$pkg install python2
+$pkg install pip
+$git clone https://github.com/storiku/ANCAGAMERZ1727
+$ls
+&cd ANCAGAMERZ1727
+$ls
+$pip2 install requests mechanize
+$python2 ANCAGAMERZ1727.py
